@@ -1,2 +1,3 @@
 FORMAT='%A %d/%m/%Y  and QA's-environment Time is %I:%M:%p '
+FORMATBACKUP='%A %d/%m/%Y  and QA's-environment Time is %I:%M:%p '
 
